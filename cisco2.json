@@ -1,0 +1,26 @@
+{
+    "router": [
+        {
+            "host_ip":"192.168.233.136",
+            "hostname": "JSONPYJPN",
+            "username": "admin",
+            "password": "pass",
+            "lo_interfaces": ["11.11.11.11","22.22.22.22","33.33.33.33"]
+        },
+        {
+            "host_ip":"192.168.233.137",
+            "hostname": "JSONPYPHP",
+            "username": "admin",
+            "password": "cisco123",
+            "lo_interfaces": ["44.44.44.44","22.22.22.22","33.33.33.33"]
+        },
+        {
+            "host_ip":"192.168.233.142",
+            "hostname": "JSONPYSGC",
+            "username": "admin",
+            "password": "cisco123",
+            "lo_interfaces": ["55.55.55.55","66.66.66.66","77.77.77.77"]
+        }
+    ]
+
+}
